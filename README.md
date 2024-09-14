@@ -1,10 +1,10 @@
 ## "Hola mundo" mi nombre es Franco Beltrán 👋
 
-¿Quien soy?
+### ¿Quien soy?
  Soy un programador FullStack .
   Desde muy chico me a interezado todo lo relacionado con tecnologia,ciencia y matematicas.
   Desde hace 2 años que descubri este nuevo mundo ,que es la programacion !! 
-¿Que hago?
+### ¿Que hago?
   Actualmente estoy realizando proyectos personales , utilizando las siguientes herramientas:
 + Frontend:Javascript,TypeScript,HTML,CSS,React.js,Next.js,TailwindCSS,Boostrap,material UI.
 + Bases de datos:PosgreSQL,MySQL,MongoDB.
